@@ -1,3 +1,4 @@
+
 batch_size=64
 num_catogeries=10
 num_epochs=10
