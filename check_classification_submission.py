@@ -10,7 +10,7 @@ from pathlib import Path
 
 # ==================== 请填写文件位置 ====================
 PREDICTION_PATH = Path(
-    r"C:\Users\Legion\Desktop\computer_vision_dataset\classification_predictions.json"
+    r"/home/zhengxuyao/projects/my_first_project/computer_vision_dataset/2025352016_郑旭尧_classification_predictions.json"
 )
 # ========================================================
 
